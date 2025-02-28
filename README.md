@@ -17,10 +17,10 @@ Clone este repositório
 git clone https://github.com/seuusuario/digital-clock.git
 
 Entre na pasta do projeto
-cd digital-clock
+cd relogiodigitaljs
 
 Rode o script
-node clock.js
+node digitalclock.js
 ```
 
 **4️⃣ Pré-requisitos**
